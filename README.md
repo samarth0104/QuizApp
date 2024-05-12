@@ -1,7 +1,6 @@
 # Quiz Application
 
-This project is a simple quiz application developed in Unity, featuring multiple scenes and modes, dynamic score updates, and question results displayed in the exit screen. It utilizes CSV files for storing questions and supports three different modes: practical, interview, and theory.
-
+This project is a simple quiz application developed in Unity replicating the SQL Quiz Master Pro app.
 ## Scenes
 
 ### Menu
